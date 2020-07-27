@@ -18,7 +18,7 @@ import (
 	"github.com/ansible-semaphore/semaphore/util"
 	"github.com/gorilla/handlers"
 	"golang.org/x/crypto/bcrypt"
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 func main() {
