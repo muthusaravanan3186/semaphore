@@ -7,7 +7,7 @@ import (
 	_ "github.com/go-sql-driver/mysql" // imports mysql driver
 	"gopkg.in/gorp.v1"
 	"time"
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 // Mysql is the gorp database map
