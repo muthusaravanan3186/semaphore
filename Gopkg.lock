@@ -19,7 +19,7 @@
 
 [[projects]]
   digest = "1:5622116f2c79239f2d25d47b881e14f96a8b8c17b63b8a8326a38ee1a332b007"
-  name = "github.com/Sirupsen/logrus"
+  name = "github.com/sirupsen/logrus"
   packages = ["."]
   pruneopts = "UT"
   revision = "d682213848ed68c0a260ca37d6dd5ace8423f5ba"
@@ -350,7 +350,7 @@
   analyzer-name = "dep"
   analyzer-version = 1
   input-imports = [
-    "github.com/Sirupsen/logrus",
+    "github.com/sirupsen/logrus",
     "github.com/go-openapi/loads",
     "github.com/go-openapi/spec",
     "github.com/go-openapi/strfmt",
