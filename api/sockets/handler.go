@@ -9,7 +9,7 @@ import (
 	"github.com/gorilla/context"
 	"github.com/gorilla/websocket"
 	"github.com/ansible-semaphore/semaphore/util"
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 var upgrader = websocket.Upgrader{
